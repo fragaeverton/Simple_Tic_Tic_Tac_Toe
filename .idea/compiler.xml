@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Tic-Tac-Toe3.Simple_Tic-Tac-Toe-task.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe3.Topics-Array-Initializing_an_array_of_characters.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe3.Topics-Array-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe3.Topics-Calling_a_method-Area_of_parallelogram.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe3.Topics-Calling_a_method-Call_me_awesome.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe3.Topics-Calling_a_method-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe3.Topics-Primitive_and_reference_types-Creating_a_primitive.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe3.Topics-Primitive_and_reference_types-Creating_a_reference_type.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe3.Topics-Primitive_and_reference_types-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe3.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
