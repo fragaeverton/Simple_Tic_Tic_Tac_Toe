@@ -7,20 +7,20 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter cells: ");
         String myInput = scanner.next();
-        String[] myCollection = new String[]{
-                String.valueOf(myInput.charAt(0)),
-                String.valueOf(myInput.charAt(1)),
-                String.valueOf(myInput.charAt(2)),
-                String.valueOf(myInput.charAt(3)),
-                String.valueOf(myInput.charAt(4)),
-                String.valueOf(myInput.charAt(5)),
-                String.valueOf(myInput.charAt(6)),
-                String.valueOf(myInput.charAt(7)),
-                String.valueOf(myInput.charAt(8))};
+        char[] myCollection = new char[]{
+                myInput.charAt(0),
+                myInput.charAt(1),
+                myInput.charAt(2),
+                myInput.charAt(3),
+                myInput.charAt(4),
+                myInput.charAt(5),
+                myInput.charAt(6),
+                myInput.charAt(7),
+                myInput.charAt(8)};
         printGame(myCollection);
     }
 
-    private static void printGame(String[] myCol) {
+    private static void printGame(char[] myCol) {
         String headerFooter = ("---------");
         String pipe = "|";
         String space = " ";
